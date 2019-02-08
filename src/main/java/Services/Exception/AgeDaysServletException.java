@@ -1,4 +1,4 @@
-package Exceptions;
+package Services.Exception;
 
 public class AgeDaysServletException extends Exception {
 
