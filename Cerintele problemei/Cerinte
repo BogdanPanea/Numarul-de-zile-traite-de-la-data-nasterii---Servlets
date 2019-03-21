@@ -1,0 +1,9 @@
+Se introduc numele si data nasterii unei persoane sub forma:
+
+http://localhost:8080/test/myAge?name=Bogdan&dob=28/04/1983
+
+la care se primeste un raspuns ce contine numarul de zile traite de persoana pana in prezent.
+
+In cazul de mai sus raspunsul va fi:
+
+Hello - Bogdan, you lived 13111 days.
